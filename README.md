@@ -5,3 +5,5 @@ the question in <5mins.
 If you embed the string in the jupyter notebook like I did it won't complete bc it GCs and takes too much time
 Read the string from a file. 
 
+RESOURCES:http://readiab.org/book/latest/
+
