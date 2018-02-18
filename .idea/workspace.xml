@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbd0e5d4-f3ab-41f8-9883-77852a4791e7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera_bio_findingori.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DNA Gel_PCR review.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DNA1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DNA2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MinimumSkewProblem.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/courseralec1quizweek1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/courseraweek1a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/denovo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_gel1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_gel2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_gel3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_hybrid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_lib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_southernblot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galaxy101.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/illumina_denovo.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/motif9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori8pre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ori9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skew1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skew2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week2a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week2b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/0.2df26ba7af9e10667636.dll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/113717.ct.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/31.546042119d977e7e5a05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/49.b9b04f23d7d357c60069.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/50.780f58393b74c1099d57.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/56.11448df67313de59a396.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/76.edf030bbf52dcedec734.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/82.2b313de038c70956d04d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/946401778754875" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/MathJax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/airpr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/analytics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/app.a1272b491c7281b5b8bf.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/bat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/conversion_async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.0.828a4e4bc94b68a42e02.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.1.21c53167724947770d88.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.13.f805045a08dd62f49173.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.22.af3e5ddf65493569c321.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.71.00b6da5ec7cae08b94e7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.78.8163fa83de45e2da20b1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.9.dc34055752d9cd29acec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.app.a1272b491c7281b5b8bf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/fbevents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/gtm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/loader.2df26ba7af9e10667636.dll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/loader.5264250960d6146bb6ad.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/lux.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/monitoring.7fc6ed97555c7e499584.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/pixel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/preloader.674e11e55f15abfc9176.dll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/preloader.dfe4f56bb59a2d9115f0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/saved_resource" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/0.2df26ba7af9e10667636.dll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/113717.ct.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/31.546042119d977e7e5a05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/49.b9b04f23d7d357c60069.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/50.780f58393b74c1099d57.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/56.11448df67313de59a396.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/76.edf030bbf52dcedec734.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/82.2b313de038c70956d04d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/946401778754875" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/MathJax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/airpr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/analytics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/app.a1272b491c7281b5b8bf.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/bat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/conversion_async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.0.828a4e4bc94b68a42e02.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.1.21c53167724947770d88.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.13.f805045a08dd62f49173.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.22.af3e5ddf65493569c321.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.71.00b6da5ec7cae08b94e7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.78.8163fa83de45e2da20b1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.9.dc34055752d9cd29acec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.app.a1272b491c7281b5b8bf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/fbevents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/gtm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/loader.2df26ba7af9e10667636.dll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/loader.5264250960d6146bb6ad.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/lux.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/monitoring.7fc6ed97555c7e499584.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/preloader.674e11e55f15abfc9176.dll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/preloader.dfe4f56bb59a2d9115f0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/saved_resource" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1173" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bioinformatics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bioinformatics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/TestCode/TestFlask/flask/bin/python2.7" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd0e5d4-f3ab-41f8-9883-77852a4791e7" name="Default" comment="" />
+      <created>1518987532044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518987532044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
