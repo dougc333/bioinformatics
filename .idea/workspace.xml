@@ -2,134 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbd0e5d4-f3ab-41f8-9883-77852a4791e7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Coursera_bio_findingori.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DNA Gel_PCR review.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DNA1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DNA2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MinimumSkewProblem.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/courseralec1quizweek1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/courseraweek1a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/denovo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_clone3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_gel1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_gel2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_gel3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_hybrid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_lib.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_pcr5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dna_southernblot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/galaxy101.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/illumina_denovo.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/motif9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori8pre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ori9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skew1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skew2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week2a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week2b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/0.2df26ba7af9e10667636.dll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/113717.ct.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/31.546042119d977e7e5a05.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/49.b9b04f23d7d357c60069.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/50.780f58393b74c1099d57.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/56.11448df67313de59a396.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/76.edf030bbf52dcedec734.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/82.2b313de038c70956d04d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/946401778754875" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/MathJax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/airpr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/app.a1272b491c7281b5b8bf.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/bat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/conversion_async.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.0.828a4e4bc94b68a42e02.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.1.21c53167724947770d88.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.13.f805045a08dd62f49173.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.22.af3e5ddf65493569c321.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.71.00b6da5ec7cae08b94e7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.78.8163fa83de45e2da20b1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.9.dc34055752d9cd29acec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/en.app.a1272b491c7281b5b8bf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/fbevents.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/gtm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/loader.2df26ba7af9e10667636.dll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/loader.5264250960d6146bb6ad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/lux.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/monitoring.7fc6ed97555c7e499584.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/pixel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/preloader.674e11e55f15abfc9176.dll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/preloader.dfe4f56bb59a2d9115f0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week3,htm_files/saved_resource" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/0.2df26ba7af9e10667636.dll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/113717.ct.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/31.546042119d977e7e5a05.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/49.b9b04f23d7d357c60069.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/50.780f58393b74c1099d57.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/56.11448df67313de59a396.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/76.edf030bbf52dcedec734.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/82.2b313de038c70956d04d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/946401778754875" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/MathJax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/airpr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/app.a1272b491c7281b5b8bf.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/bat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/conversion_async.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.0.828a4e4bc94b68a42e02.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.1.21c53167724947770d88.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.13.f805045a08dd62f49173.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.22.af3e5ddf65493569c321.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.71.00b6da5ec7cae08b94e7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.78.8163fa83de45e2da20b1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.9.dc34055752d9cd29acec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/en.app.a1272b491c7281b5b8bf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/fbevents.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/gtm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/loader.2df26ba7af9e10667636.dll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/loader.5264250960d6146bb6ad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/lux.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/monitoring.7fc6ed97555c7e499584.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/preloader.674e11e55f15abfc9176.dll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/preloader.dfe4f56bb59a2d9115f0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week4_files/saved_resource" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/tests/week1_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/tests/week2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/week1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/week2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/week3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coursera/Coursera_bio_findingori.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset_7_6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset_9_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset_9_4.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cuttlefish_prep/.ipynb_checkpoints/cuttlefish_prep-checkpoint.ipynb" afterPath="$PROJECT_DIR$/cuttlefish_prep/.ipynb_checkpoints/cuttlefish_prep-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cuttlefish_prep/cuttlefish_prep.ipynb" afterPath="$PROJECT_DIR$/cuttlefish_prep/cuttlefish_prep.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -138,12 +25,120 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittest_week1_test_test_reverse_complement.coverage" NAME="Unittest week1_test.test_reverse_complement Coverage Results" MODIFIED="1519000284537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittest_week1_test_test_most_frequent_kmer.coverage" NAME="Unittest week1_test.test_most_frequent_kmer Coverage Results" MODIFIED="1519000388083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittests_in_week2_test__1_.coverage" NAME="Unittests in week2_test (1) Coverage Results" MODIFIED="1519003342094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittests_in_week1_test__1_.coverage" NAME="Unittests in week1_test (1) Coverage Results" MODIFIED="1519002432185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittests_in_week1_test.coverage" NAME="Unittests in week1_test Coverage Results" MODIFIED="1519002481465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittests_in_week2_test.coverage" NAME="Unittests in week2_test Coverage Results" MODIFIED="1519003284203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittest_week1_test_test_reverse_complement__1_.coverage" NAME="Unittest week1_test.test_reverse_complement (1) Coverage Results" MODIFIED="1519002256746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+    <SUITE FILE_PATH="coverage/bioinformatics$Unittest_week1_test_test_count.coverage" NAME="Unittest week1_test.test_count Coverage Results" MODIFIED="1519000322257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/tests" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="week1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coursera/week1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="week2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coursera/week2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="week1_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coursera/tests/week1_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="6" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="week2_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coursera/tests/week2_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="week3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coursera/week3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/coursera/week1.py" />
+        <option value="$PROJECT_DIR$/coursera/tests/week1_test.py" />
+        <option value="$PROJECT_DIR$/coursera/week2.py" />
+        <option value="$PROJECT_DIR$/coursera/tests/week2_test.py" />
+        <option value="$PROJECT_DIR$/coursera/week3.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -152,7 +147,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="-2441" />
+    <option name="y" value="133" />
     <option name="width" value="1920" />
     <option name="height" value="1173" />
   </component>
@@ -171,8 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,6 +181,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,6 +192,385 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in week2_test (1)">
+    <configuration default="false" name="Unittests in week1_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coursera/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coursera/tests/week1_test.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest week1_test.test_reverse_complement (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coursera/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coursera/tests/week1_test.py" />
+      <option name="CLASS_NAME" value="week1_test" />
+      <option name="METHOD_NAME" value="test_reverse_complement" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in week1_test (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coursera/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coursera/tests/week1_test.py" />
+      <option name="CLASS_NAME" value="week1_test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in week2_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coursera/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coursera/tests/week2_test.py" />
+      <option name="CLASS_NAME" value="week2_test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in week2_test (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coursera/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coursera/tests/week2_test.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" />
+      <option name="scriptPath" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" />
+      <option name="SCRIPT_PATH" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="bioinformatics" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bioinformatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in week1_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest week1_test.test_reverse_complement (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in week1_test (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in week2_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in week2_test (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in week2_test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in week2_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in week1_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in week1_test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest week1_test.test_reverse_complement (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -210,29 +585,64 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_week1_test_test_most_frequent_kmer - 2018.02.18 at 16h 33m 08s.xml">
+      <configuration name="Unittest week1_test.test_most_frequent_kmer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_week1_test_test_reverse_complement_(1) - 2018.02.18 at 17h 04m 16s.xml">
+      <configuration name="Unittest week1_test.test_reverse_complement (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week1_test - 2018.02.18 at 16h 32m 17s.xml">
+      <configuration name="Unittests in week1_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week1_test - 2018.02.18 at 17h 04m 28s.xml">
+      <configuration name="Unittests in week1_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week1_test - 2018.02.18 at 17h 05m 21s.xml">
+      <configuration name="Unittests in week1_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week1_test - 2018.02.18 at 17h 07m 40s.xml">
+      <configuration name="Unittests in week1_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week1_test - 2018.02.18 at 17h 08m 01s.xml">
+      <configuration name="Unittests in week1_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week1_test_(1) - 2018.02.18 at 17h 07m 12s.xml">
+      <configuration name="Unittests in week1_test (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week2_test - 2018.02.18 at 17h 21m 24s.xml">
+      <configuration name="Unittests in week2_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_week2_test_(1) - 2018.02.18 at 17h 22m 22s.xml">
+      <configuration name="Unittests in week2_test (1)" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
+    <frame x="-2441" y="133" width="1920" height="1173" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.019021738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -240,5 +650,67 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/coursera/week1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/tests/week1_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/week2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/tests/week2_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/week3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
