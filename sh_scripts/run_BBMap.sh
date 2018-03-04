@@ -1,0 +1,9 @@
+#!/bin/bash
+
+BBMap/sh/bbduk.sh in=/home/dc/Downloads/Undetermined_S0_L001_R1_001.fastq.gz in2=/home/dc/Downloads/Undetermined_S0_L001_R2_001.fastq.gz ref=BBMap/resources/adapters.fa out=/home/dc/bbmap_output/L001_R1out.fastq.gz out2=/home/dc/bbmap_output/L001_R2out.fastq.gz
+BBMap/sh/bbduk.sh in=/home/dc/Downloads/Undetermined_S0_L002_R1_001.fastq.gz in2=/home/dc/Downloads/Undetermined_S0_L002_R2_001.fastq.gz ref=BBMap/resources/adapters.fa out=/home/dc/bbmap_output/L002_R1out.fastq.gz out2=/home/dc/bbmap_output/L002_R2out.fastq.gz
+BBMap/sh/bbduk.sh in=/home/dc/Downloads/Undetermined_S0_L003_R1_001.fastq.gz in2=/home/dc/Downloads/Undetermined_S0_L003_R2_001.fastq.gz ref=BBMap/resources/adapters.fa out=/home/dc/bbmap_output/L003_R1out.fastq.gz out2=/home/dc/bbmap_output/L003_R2out.fastq.gz
+BBMap/sh/bbduk.sh in=/home/dc/Downloads/Undetermined_S0_L004_R1_001.fastq.gz in2=/home/dc/Downloads/Undetermined_S0_L004_R2_001.fastq.gz ref=BBMap/resources/adapters.fa out=/home/dc/bbmap_output/L004_R1out.fastq.gz out2=/home/dc/bbmap_output/L004_R2out.fastq.gz
+BBMap/sh/bbduk.sh in=/home/dc/Downloads/Undetermined_S0_L005_R1_001.fastq.gz in2=/home/dc/Downloads/Undetermined_S0_L005_R2_001.fastq.gz ref=BBMap/resources/adapters.fa out=/home/dc/bbmap_output/L005_R1out.fastq.gz out2=/home/dc/bbmap_output/L005_R2out.fastq.gz
+BBMap/sh/bbduk.sh in=/home/dc/Downloads/Undetermined_S0_L007_R1_001.fastq.gz in2=/home/dc/Downloads/Undetermined_S0_L007_R2_001.fastq.gz ref=BBMap/resources/adapters.fa out=/home/dc/bbmap_output/L007_R1out.fastq.gz out2=/home/dc/bbmap_output/L007_R2out.fastq.gz
+BBMap/sh/bbduk.sh in=/home/dc/Downloads/Undetermined_S0_L008_R1_001.fastq.gz in2=/home/dc/Downloads/Undetermined_S0_L008_R2_001.fastq.gz ref=BBMap/resources/adapters.fa out=/home/dc/bbmap_output/L008_R1out.fastq.gz out2=/home/dc/bbmap_output/L008_R2out.fastq.gz
