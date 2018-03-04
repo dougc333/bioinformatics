@@ -1,6 +1,10 @@
 $(document).ready(function(){
     //connect to the socket server.
-    var socket = io.connect('http://' + document.domain + ':' + location.port + '/test');
+    console.log("applications js");
+    console.log(document.domain);
+    console.log(location.port)
+    //var socket = io.connect('http://' + document.domain + ':' + location.port + '/test');
+    var socket=io.connect("http://localhost:5000/test")
     var numbers_received = [];
 
     //receive details from server

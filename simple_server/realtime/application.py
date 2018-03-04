@@ -1,11 +1,7 @@
-"""
-Demo Flask application to test the operation of Flask with socket.io
-Aim is to create a webpage that is constantly updated with random numbers from a background python process.
-30th May 2014
-"""
 
 # Start with a basic flask app webpage.
-from flask.ext.socketio import SocketIO, emit
+from flask_socketio import SocketIO, emit
+#from flask.ext.socketio import SocketIO, emit
 from flask import Flask, render_template, url_for, copy_current_request_context
 from random import random
 from time import sleep
@@ -14,8 +10,8 @@ from threading import Thread, Event
 
 
 app = Flask(__name__)
-#app.config['SECRET_KEY'] = 'secret!'
-#app.config['DEBUG'] = True
+app.config['SECRET_KEY'] = 'secret!'
+app.config['DEBUG'] = True
 
 #turn the flask app into a socketio app
 socketio = SocketIO(app)
@@ -48,8 +44,18 @@ class RandomThread(Thread):
 
 @app.route('/')
 def index():
-    #only by sending this page first will the client be connected to the socketio instance
-    return render_template('index.html')
+	#only by sending this page first will the client be connected to the socketio instance
+	return render_template('index.html')
+
+@app.route("/foo")
+def foo():
+ 	return "foo"
+
+
+@app.route("/foojs")
+def foojs():
+	return render_template("foo.html",foo=10)
+
 
 @socketio.on('connect', namespace='/test')
 def test_connect():
