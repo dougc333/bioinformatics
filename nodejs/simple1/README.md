@@ -5,3 +5,11 @@ have to be symmmetrical. You can only use a function/object in general if you bo
 export it and require the file it is in.
 
 
+
+To run the programs;
+
+node test1.js
+node test2.js
+node test3.js
+node test4.js
+
