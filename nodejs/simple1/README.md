@@ -1,3 +1,4 @@
+INTRO TO OO JS w NODE RUNTIME
 to run a js file: node -e "require("./testdir").init() if our file db.js was under subdir testdir
 to make a function visible from a js file, include it in module.exports
 to import functions/objects whic are exported use require. require and module.exports
