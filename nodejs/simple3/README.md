@@ -4,7 +4,8 @@ node index.js: creates express server and routes a path.
 node index_statis.js: displays index.html using http://localhost:4100/static/index.html and 
 all html files in dirctory ./public mapped to url /static.  
 node index_router.js: separates the routing into a separate file, http://localhost:4100/testrouter
-and shows static/index and PUG basic views working
+and shows static/index and PUG basic views working. Routing introduces concept of middleware when 
+calling app.use();./ 
 
 Commands for this directory setup
 1) mkdir express1

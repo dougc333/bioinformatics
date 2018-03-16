@@ -3,8 +3,7 @@ var socket = io.connect('http://' + document.domain + ':' + location.port);
 
 socket.on('connect', function() {
     // we emit a connected message to let knwo the client that we are connected.
-    //print("connected!!!');
-    console.log("connect");
+    console.log('connected!!!');
     socket.emit('client_connected', {data: 'New client!'});
 });
 
@@ -15,17 +14,21 @@ socket.on('message', function (data) {
 
 socket.on('alert', function (data) {
     console.log("alert");
-    //alert('Alert Message!! ' + data);
+    alert('Alert Message!! ' + data);
 });
 
 function json_button() {
-    alert("json_button pressed");
+    //alert("json_button pressed");
     console.log("json button");
-    socket.send('json_button', '{"message": "test"}');
+    socket.emit('json_button', {json_button: "test"});
+    socket.on('json_button',function(){
+        console.log("asdfasd");
+    });
+
 }
 
 function alert_button() {
-    alert("alert button pressed");
+    //alert("alert button pressed");
     console.log("alert button");
     socket.send('alert_button', 'Message from client!!')
 }
