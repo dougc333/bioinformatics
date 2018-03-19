@@ -1,3 +1,8 @@
+
+Repo for cuttlefish and kombuca projects
+
+
+
 MinimumSkewProblem.pdf is a set of test cases from the class for the python program in the jupyter notebook
 the website downloads a random set of ATCG and you find the min skew w a program you write so you can answer
 the question in <5mins. 
