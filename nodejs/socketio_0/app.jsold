@@ -1,0 +1,9 @@
+const io = require('socket.io')(3000);
+io.on('connection', function (socket) {
+    console.log('a client has connected');
+    socket.on('clicked', function() {
+        io.emit('clicked');
+    });
+});
+console.log('socket.io server started at port 3000'); 
+
