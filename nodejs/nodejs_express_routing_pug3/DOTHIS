@@ -1,5 +1,0 @@
-add request parsing of fields? is this necesary? posts/year/data so you can parse the req parameters
-
-add PUG views
-add filesystem changes to trigger webresponse
-via socketio? 
