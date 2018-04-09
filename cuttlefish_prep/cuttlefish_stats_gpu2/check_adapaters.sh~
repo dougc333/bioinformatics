@@ -1,0 +1,4 @@
+#!/bin/bash
+
+zcat /home/dc/Downloads/empty_S316_L008_R1_001.fastq.gz | grep CTGTCTCTTATACACATCT | wc -l > output_R1CTGTCTCTTATACACATCT.txt
+zcat /home/dc/Downloads/empty_S316_L008_R2_001.fastq.gz | grep CTGTCTCTTATACACATCT  | wc -l  > output_R2CTGTCTCTTATACACATCT.txt
