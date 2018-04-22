@@ -1,0 +1,16 @@
+PCR Review:
+Goal: amplify DNA sequences
+1) denature by heat to separate strands
+2) cut the strands. 
+primer attaches to 5'->3' direction. 
+DNTP: NT specific to PCR, form of NT. 
+
+
+why do you need a PCR priemr? to start reads from a known location. 
+write up PCR primer design and PCR lab docs
+how long are the PCR primers?
+
+
+Index adapters: for illumina sequencers where only 1 NT is attached at a time for sequencing. 
+restriction enxymes are reverse compliment .
+
